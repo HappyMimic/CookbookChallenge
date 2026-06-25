@@ -77,7 +77,8 @@ There are a couple of ways to go about doing this, but the simplest is this:
 * #c06e52
 * #f96f5d
 
-### How to use (Directly transcript from <a href="https://opentutordesignschool.com/how-to-apply-a-color-palette-to-your-design/">"How to Apply a Color Palette to Your Design" by Zuhara SEO | Design School</a>)
+## Directly transcript from <a href="https://opentutordesignschool.com/how-to-apply-a-color-palette-to-your-design/">"How to Apply a Color Palette to Your Design" by Zuhara SEO | Design School</a>
+### How to use
 *I really didn't want to move back and forth or rely on internet.*
 #### Primary Colors - The Foundation
 Your primary color is the anchor of your palette. It reflects your brand personality and should be the most dominant shade in your design. Think of it as your “signature color.”
