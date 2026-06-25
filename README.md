@@ -47,3 +47,92 @@ There are a couple of ways to go about doing this, but the simplest is this:
 * Change the Branch from none to main branch and click Save.
 * It may take a few minutes (The GitHub website says up to 10, but we’ve seen it take up to an hour. Do not add a “theme” to your project, or you may have git conflicts, instead, be patient.) but your project should be accessible over the web from your-github-username.github.io/your-github-repo-name (obviously substituting your own details in the link).
 * If your project does not publish after 1 hour, ensure that you have a file called index.html in the root of your repository and all the settings have been set correctly. Go to your repo on GitHub and click on Actions, if there are no entries, then go back to the settings, change the Branch from main branch to none and click Save, then change the Branch from none to main branch and click Save.
+
+## Color Palette
+
+### Choices
+
+#### Option 1
+* #607456
+* #EEE0CC
+* #BA6A4C
+* #7B2525
+
+#### Option 2
+* #778873
+* #A1BC98
+* #DCCFC0
+* #FDF6ED
+
+#### Option 3
+* #C1EBE9
+* #FFF7C5
+* #F4AE52
+* #4F252E
+
+#### Option 4
+* #fbf2c0
+* #48392a
+* #43281c
+* #c06e52
+* #f96f5d
+
+### How to use (Directly transcript from <a href="https://opentutordesignschool.com/how-to-apply-a-color-palette-to-your-design/">"How to Apply a Color Palette to Your Design" by Zuhara SEO | Design School</a>)
+*I really didn't want to move back and forth or rely on internet.*
+#### Primary Colors - The Foundation
+Your primary color is the anchor of your palette. It reflects your brand personality and should be the most dominant shade in your design. Think of it as your “signature color.”
+
+Where to use it:
+* Main headers and titles
+* Navigation menus
+* Logo and core brand elements
+* Backgrounds for key sections
+
+Example: If your primary color is blue, it could dominate the website header and navigation bar while reinforcing brand recognition.
+
+#### Secondary Colors – The Support System
+Secondary colors exist to support the primary color. They bring variety and depth to your design without stealing attention. The role of secondary shades is to make the design feel complete while maintaining harmony.
+
+Where to use it:
+* Subheadings or secondary text
+* Icons and infographics
+* Supporting backgrounds
+* Decorative elements
+
+Example: A brand using blue as its primary might use light gray or teal as secondary shades for section dividers or sidebar highlights.
+
+#### Accent Colors – The Highlights
+
+Accent colors are your design’s attention grabbers. They direct focus, highlight key elements, and encourage action. These should be used carefully because their power lies in contrast.
+
+Where to use it:
+* Call-to-action buttons (e.g., “Buy Now,” “Sign Up”)
+* Important links and icons
+* Promotional banners
+* Notifications or special highlights
+
+Example: A bright orange accent against a blue-dominant design instantly stands out, guiding users toward clickable actions.
+
+### Step-by-Step Color Application Process
+#### Step 1: Establish Hierarchy
+Start by identifying which elements of your design are most important. Apply your primary color to these first. The hierarchy ensures that viewers focus on the right elements in the correct order.
+
+Tip: Headlines, navigation, and branding usually receive the primary shade since they represent core brand presence.
+
+#### Step 2: Add Supporting Elements
+Once the foundation is set, bring in your secondary colors. Their role is to complement the main color while adding visual variety. Make sure they don’t overpower the primary shade.
+
+Tip: Use them in secondary text, sidebars, or icons to create depth and balance.
+
+#### Step 3: Use Accent Colors Strategically
+Accent colors should be your design’s “spotlight.” Apply them sparingly to guide user attention where you want it most.
+
+Tip: Keep accent colors to about 10% of your total palette usage. Buttons, calls-to-action, or key highlights are the best places for accents.
+
+### Step 4: Review and Refine
+Once colors are applied, step back and evaluate your design. Ask yourself:
+* Does the hierarchy feel clear?
+* Are the key elements easy to notice?
+* Are colors balanced, or is one overpowering the others?
+
+Refine your application until the design looks cohesive and the flow feels natural.
